@@ -1,0 +1,20 @@
+.weather {
+    font-size: 40px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.temp {
+    font-size: 30px;
+    margin: 0;
+}
+
+.humidity {
+    font-size: 24px;
+    margin: 0;
+}
+
+.pressure {
+    font-size: 24px;
+    margin: 0;
+}
